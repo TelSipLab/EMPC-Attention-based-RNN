@@ -1,2 +1,5 @@
 # EMPC using attention-based RNN for disturbance prediction
-In this repository, the simulation files that correspond to the paper entitled "Control of wastewater treatment plants using economic-oriented MPC and attention-based RNN disturbance prediction models". The files for the controller implementation are inside the "Controller" folder, the files that represent the inlet flow profiles are in the "Influent Files" folder, the csv files that contain the influent flow rate predictions produced by the RNN models are stored in the "Predictions" folder and the files required for the BSM model are in the "BSM Auxiliary Files" folder.
+
+This repository contains software that complements the paper titled "Control of Wastewater Treatment Plants using Economic-Oriented MPC and Attention-Based RNN Disturbance Prediction Models."
+
+It includes several folders: the "Controller" folder holds the files for the controller implementation, the "Influent Files" folder contains the files representing the inlet flow profiles, the "Predictions" folder stores the CSV files with influent flow rate predictions produced by the RNN models, and the "BSM Auxiliary Files" folder includes the files required for the BSM model.
